@@ -1,2 +1,2 @@
 # P.L.U.T.O.
-Productivity &amp; Logical Utility Task Organizer
+Personal &amp; Logical Utility Task Organizer
